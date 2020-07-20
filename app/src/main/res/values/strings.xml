@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Himanshu Kumar Mishra</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">-Hi, my name is Himanshu Kr. Mishra.
+    I live in Vadodara, Gujarat.Currently Iam pursuing Btech(CS) from Amity University, Lucknow.
+    \n\nACADEMIC BACKGROUND:
+
+\n\n- 10 CGPA Class 10th.
+        \n-84%in Class 12th.
+        \n-AIR- 5911 in NEET-2019.
+        \n-AIR-844 in IMU_CET-2019.
+        \n-Cracked AFMC-2019.
+
+\n\nABOUT:
+
+\n\n
+-I am much curious about competitive coding and am constantly learning.
+        \n-You can  find me on various Online Platforms by the user handle "himanshukm704".
+
+        \n\n//following content is just to check scrolling
+        \n\nAchievements--
+
+
+        \n\n-There is a website designed by scientists that measures brain functions through games. In my 1st attempt, I scored the highest for couple of games (that is near to world record) except for concentration for which I scored little below average.
+In Jan 2016, I appeared 3 rounds of Amazon. I was the only person in my batch of 5+ experienced to clear the coding challenge. It consisted of 2 programs and I was the only person to complete both. No other contestant could program a single solution. By now I have 3 times qualified online coding test of Amazon. I fail the design round. I do not get anything about web based designs. Especially my problem is how to initiate HTTP communications and design databases.
+In Feb 2016, I appeared for CISCO online coding challenge through Technology and India\'s Largest Tech Community and scored rank 30 between all languages- C, C++, java and python among some 10000 candidates. My solution passed all the test cases.
+In 28 January 2018 appeared for online coding challenge by Applied Materials through Technology and India\'s Largest Tech Community and scored rank 29. My solution passes all test cases. Total time taken is 3 hours out of allotted 4 hours.
+In 28 January 2018 appeared for online coding challenge by Samsung through Technology and India\'s Largest Tech Community and scored rank 98. My solution passes all test cases. Total time taken is 45minutes out of allotted 5 hours. I have checked the profiles. People from IITs, Nits, IISC have participated in the contest.
+Made a proposal and qualified till finals for an international event “Mobile Rules! Technology Innovation Competition"- FEB 2008, conducted by Nokia. This was an international event conducted by Nokia .Title- “On the Air Operating System” and was asked to prepare white papers for the same.
+I earned state board scholarship in std3.
+When in std 3 , on orders of school principal took one math and English class of std 9 students.
+
+My strength and contribution to team--
+
+-In TechM, I wrote a function. Peer reviewed. He rewrote the same function. But in his function not even 1 feature was working correctly.
+In Samsung, there was a piece of code, it was not working properly. One peer had written it. I changed the initializers and it started working.
+In Samsung we were given a program to reduce the number of loops. I assigned to a NIT guy. He could not do it. I did it.
+In Samsung, there was a feature to be implemented. Peers gave suggestions. I pointed out errors. I gave my implementation. Others told it is too complex. They implemented. I crashed the code. At last the feature was discarded. I got appreciation from manager.
+In SPA computers, there was a crash. Whole team tried it. I could fix it. There was an IP file that was getting corrupted by multiple read/write overlapping.
+In SPA computers, there was a need for multilingual fonts display, the whole team tried it. I could solve it.
+In CDAC, we were given a challenge to display moving sin curve on screen given line drawing system call. In the whole class I was the only person to write a program for that. There were people from REC, IIM, 90% career holders.
+I have always been a fast tracker. My aptitude tests finished about half an hour earlier than other candidates could. I had topped almost always in aptitudes and computer architecture and OS paper taken separately.
+In TechM I suggested for a software that could automate the porting project. But it was not implemented because it was a one time project.
+\nAccuracy--
+
+-In TechM, I did the whole porting project except for few functions and there are not more than 20 bugs.
+In SPA- in project digital Signage Board- my modules reported a maximum of 20 bugs while each other individual reported 100+ bugs though I guess I coded more than others.
+In Samsung- porting project Rust Servo Browser- I reported a maximum 5 bugs while others reported 50-60 bugs. Other team mates were from companies like microsoft,adobe,IITans and NITans.
+
+ </string>
+    <string name="what_is_your_nickname">What is your Nickname</string>
+    <string name="done">Done</string>
+</resources>
